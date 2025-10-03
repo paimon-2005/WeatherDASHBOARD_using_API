@@ -1,7 +1,7 @@
 # 🌤️ Weather App
 This project is a Weather App built using HTML, CSS, and JavaScript. It provides real-time weather updates for any city, including temperature, humidity, wind speed, and a 5-day forecast. The app features a clean and modern UI with interactive elements, such as a search bar and dynamic weather icons. The goal of this project was to practice front-end development skills while creating a functional, real-world inspired application.
 
-## here the preview link - 
+## here the preview link - https://weather-dashboard-sigma-swart.vercel.app/
 
 ## 📝 Important Note on Forecast Dates and Timezones
 This weather application relies on the OpenWeatherMap forecast API, which mandates that all data be provided in Coordinated Universal Time (UTC). Our code uses this data stream to show a daily forecast summarized at the 12:00:00 UTC time slot.
